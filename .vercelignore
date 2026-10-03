@@ -1,0 +1,12 @@
+﻿.browser-check*/
+.verification/
+.tools/
+.git/
+.vercel/
+node_modules/
+dist/
+browser-dom.txt
+browser-errors.txt
+README.md
+.env
+.env.*

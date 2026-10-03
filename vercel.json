@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "node build.cjs",
+  "outputDirectory": "dist",
+  "installCommand": "",
+  "trailingSlash": true,
+  "headers": [
+    {"source": "/moodboard/:path*", "headers": [{"key": "X-Robots-Tag", "value": "noindex, nofollow"}]}
+  ]
+}

@@ -1,0 +1,10 @@
+﻿.browser-check*/
+.verification/
+browser-dom.txt
+browser-errors.txt
+.tools/
+.vercel/
+dist/
+node_modules/
+.env
+.env.*

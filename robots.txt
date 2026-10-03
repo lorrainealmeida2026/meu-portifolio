@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+Disallow: /moodboard
+
+Sitemap: https://lorrainealmeida.com.br/sitemap.xml
